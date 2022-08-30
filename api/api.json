@@ -1,0 +1,62 @@
+[
+    {
+        "precio":75,
+        "id":9,
+        "title":"Computadora 8",
+        "url":"https://picsum.photos/id/8/600"
+    },
+    {
+        "precio":70,
+        "id":8,
+        "title":"Computadora 7",
+        "url":"https://picsum.photos/id/7/600"
+    },
+    {
+        "precio":75,
+        "id":7,
+        "title":"Computadora 6",
+        "url":"https://picsum.photos/id/6/600"
+    },
+    {
+        "precio":75,
+        "id":6,
+        "title":"Computadora 5",
+        "url":"https://picsum.photos/id/5/600"
+    },
+    {
+        "precio":75,
+        "id":5,
+        "title":"Computadora 4",
+        "url":"https://picsum.photos/id/4/600"
+    },
+    {
+        "precio":75,
+        "id":4,
+        "title":"Computadora 3",
+        "url":"https://picsum.photos/id/3/600"
+    },
+    {
+        "precio":75,
+        "id":3,
+        "title":"Computadora 2",
+        "url":"https://picsum.photos/id/2/600"
+    },
+    {
+        "precio":75,
+        "id":2,
+        "title":"Computadora 1",
+        "url":"https://picsum.photos/id/1/600"
+    },
+    {
+        "precio":75,
+        "id":1,
+        "title":"Computadora 0",
+        "url":"https://picsum.photos/id/0/600"
+    },
+    {
+        "precio":75,
+        "id":10,
+        "title":"Computadora 9",
+        "url":"https://picsum.photos/id/9/600"
+    },
+]
